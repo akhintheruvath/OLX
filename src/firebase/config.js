@@ -3,7 +3,7 @@ import 'firebase/auth';
 import 'firebase/firestore';
 import 'firebase/storage';
 const firebaseConfig = {
-    apiKey: "AIzaSyDIusGaiS28LZOV7qaUF1rce1knp_i2THg",
+    apiKey: "API KEY",
     authDomain: "olxcloneapp-2b104.firebaseapp.com",
     projectId: "olxcloneapp-2b104",
     storageBucket: "olxcloneapp-2b104.appspot.com",
